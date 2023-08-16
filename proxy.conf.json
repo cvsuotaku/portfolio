@@ -1,0 +1,7 @@
+{
+    "/api": {
+      "target": "https://dhrrx5mfy2.execute-api.ap-east-1.amazonaws.com",
+      "secure": false
+    }
+  }
+  
